@@ -1,4 +1,4 @@
-README
+Related-key differential attack on GOST with secret S-boxes.
 In the “main” function there are three functions:
 1.	The function “keySboxRecoveryAttackZD”, which performs the attack described in Section 4, as follows:
 	a.	First, it generates all the needed variables and all the good pairs for the first stage of the attack.
